@@ -1,0 +1,89 @@
+commit eddf82a1c3678af5e4ff41bffd5ce9f9cc3c16cb
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Mon Feb 16 15:17:59 2015 -0500
+
+    final version with all asserts
+
+commit 5e9cef9c0475cdb3ed7aa4aabeb7bc7296694825
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Mon Feb 16 00:40:07 2015 -0500
+
+    final version to be submitted
+
+commit 3d11fd2279e8396e7b61125ab1ce1ce53d42c013
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Mon Feb 16 00:05:52 2015 -0500
+
+    final version maybe
+
+commit 1d2222a46f21c2ad3801d89ffed2e557eb34de4f
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Sun Feb 15 23:46:41 2015 -0500
+
+    finished...i think
+
+commit c2a1bd45c076e47621ceb60cde38313bc4a7c240
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Sun Feb 15 19:49:20 2015 -0500
+
+    almost done...
+
+commit 625f0a0b92965fc2678d9ca4e1473fb0b92d8940
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Sun Feb 15 17:06:16 2015 -0500
+
+    finished search functions
+
+commit 98693d1e513e9b97bbf0023bbd214bb5b93cb835
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Sun Feb 15 00:44:35 2015 -0500
+
+    finished load grid
+
+commit 776cfc77b23f7a38848c136ca4f16dda588cccec
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Sat Feb 14 23:11:25 2015 -0500
+
+    almost finished with load grid
+
+commit 455c84f473982e995882829ba39d58df55f253ee
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Sat Feb 14 22:09:19 2015 -0500
+
+    almost finished loading grid
+
+commit 524796e046bfc5134d784ede90ae838bf20573ad
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Sat Feb 14 12:48:09 2015 -0500
+
+    working on loading grid
+
+commit dc7b051cb0d89ac2546644f2bd8a897eb1dae5be
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Fri Feb 13 21:00:08 2015 -0500
+
+    finished forward search
+
+commit 471327843583cd5c04c1ed3c41ce4f35356e8cb8
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Fri Feb 13 15:10:57 2015 -0500
+
+    added hw2 files
+
+commit 3e7ca61a44bc2423b329635af3c33b1f2152a253
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Wed Feb 11 15:14:01 2015 -0500
+
+    added hw2
+
+commit 04c7cfd9e6e9ddbcd8982f53e8939785967853d3
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Tue Feb 10 17:25:14 2015 -0500
+
+    added hw0 and hw1
+
+commit f1dc020172b43647ad4ff2c3db3334f664e151c4
+Author: Tanay Agarwal <tagarwa2@jhu.edu>
+Date:   Mon Feb 9 16:06:21 2015 -0500
+
+    added readme file

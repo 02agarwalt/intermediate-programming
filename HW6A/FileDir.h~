@@ -1,0 +1,63 @@
+/*
+Homework 6, 600.120 Spring 2015
+
+Tanay Agarwal
+tagarwa2@jhu.edu
+tagarwa2
+04/10/2015
+443-691-8192
+*/
+
+#ifndef _FILEDIR_H
+#define _FILEDIR_H
+
+#include <iostream>
+#include <cstdio>
+#include <cstdbool>
+#include <cstddef>
+#include <string>
+#include <cstdlib>
+#include <cassert>
+
+using std::ostream;  using std::istream;
+
+
+class FileDir {
+
+  string name;
+  long size;
+
+ public:
+  Bag();  // default constructor
+  Bag(int);   // conversion constructor
+  Bag(const Bag &);  // copy constructor - DEEP copy
+  ~Bag();   // destructor!!
+
+  // accessors - do not modify object
+  // const applies to object calling function
+
+  // inline definitions
+  int getSize() const { return size; } ;  
+  bool isEmpty() const { return size == 0; } ;
+  bool isFull() const { return size == capacity; } ;
+  int cap() const { return capacity; } ;
+
+  // definitions in implementation file
+  bool find(int) const;
+  ostream & write(ostream &) const;
+
+  // modifiers (mutators)
+  bool add(int);
+  bool remove(int);
+  void clear();   // dump the contents
+  istream & read(istream &);
+
+  static int CapLimit(int);   // change static variable
+
+  // helpers
+ private:
+  int where(int) const;
+
+} ;  // must have semicolon
+
+#endif
